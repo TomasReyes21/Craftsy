@@ -1,0 +1,109 @@
+ /* HEADER */
+ .home-header {
+    background-color: orangered;
+ }
+
+ .home-header-div-logo {
+    text-align: center;
+    padding: 5px;
+ }
+
+ .home-header-logo {
+    width: 30%;
+ }
+
+ .home-header-menu li {
+    padding-left: 5px;
+    padding-bottom: 5px;
+ }
+
+ .home-header-menu a {
+    font-size: 10px;
+    text-transform: uppercase;
+    color: #ffffff;
+ }
+
+ /* MAIN */
+
+.home-main-article {
+    background-color: #ffffff;
+    margin: 10px 20px;
+    padding: 5px;
+}
+
+.article-img {
+    width: 100%;
+}
+
+.home-main-article h4 {
+    margin: 8px 0;
+}
+
+.home-main-article p {
+    font-size: 14px; 
+    margin: 8px 0;
+    color: #92908b;;
+}
+
+.home-main-article a {
+    background-color: orangered;
+    color: #ffffff;
+    display: inline-block;
+    padding: 5px;
+    margin: 5px 0;
+}
+
+.home-main-tutoriales h3 {
+    text-align: center;
+    background-color: #ffffff;
+    margin: 30px 20px 10px;
+    border: 1px solid #92908b;
+    padding: 5px;
+}
+
+.home-main-tutoriales div {
+    background-color: #ffffff;
+    margin: 0 25px;
+    border-top: solid 1px #92908b;
+    border-right: solid 1px #92908b;
+    border-left: solid 1px #92908b;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.tutoriales-div {
+    border-bottom: solid 1px #92908b;
+} 
+
+.home-main-tutoriales img {
+    width: 50%;
+    padding: 5px;
+}
+
+.home-main-tutoriales a {
+    color:#444444;
+    text-align: center;
+}
+
+.home-main-publicidad h3 {
+    text-align: center;
+    background-color: #ffffff;
+    margin: 40px 20px 10px;
+    border: 1px solid #92908b;
+    padding: 5px;
+}
+
+.home-main-publicidad nav {
+    background-color: #ffffff;
+    border: solid 1px #92908b;
+    margin: 0px 50px 20px;
+    display: flex;
+    justify-items: center;
+    flex-direction: column;
+}
+
+.home-main-publicidad img {
+    width: 100%;
+    padding: 5px;
+}
